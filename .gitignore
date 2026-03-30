@@ -1,0 +1,10 @@
+node_modules/
+dist/
+models/
+*.crx
+*.pem
+*.zip
+coverage/
+.DS_Store
+*.log
+.docs/
